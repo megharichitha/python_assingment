@@ -1,0 +1,19 @@
+header{
+    background-color:darkmagenta;
+    text-align:center;
+    padding: 10px;
+
+}
+main{
+    background-color: azure;
+    padding: 15px;
+}
+img{
+    padding: 255px;
+}
+footer{
+    background-color:darkmagenta;
+    text-align:center;
+    padding: 10px;
+
+}
